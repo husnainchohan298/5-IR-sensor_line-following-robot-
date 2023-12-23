@@ -8,7 +8,6 @@ int sensor[5]={0, 0, 0, 0, 0);
 
 int initial_motor_speed=100;
 
-New
 
 void read_sensor_values(void);
 
